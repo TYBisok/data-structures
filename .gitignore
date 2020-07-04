@@ -25,3 +25,5 @@ _testmain.go
 *.swp
 *.swo
 
+data-structures.code-workspace
+
